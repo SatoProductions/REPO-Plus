@@ -1,0 +1,33 @@
+{
+    "name": "REPO_Plus",
+    "version_number": "1.2.1",
+    "website_url": "https://github.com/SatoProductions/REPO-Plus.git",
+    "description": "Modpack compiled to enhance the REPO experience for players familar with the game",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2304",
+        "BellaModsGames-REPO_Portals-1.0.2",
+        "Zehs-REPOLib-3.0.3",
+        "headclef-CharacterStats-1.0.0",
+        "nickklmao-MenuLib-2.5.1",
+        "BULLETBOT-KeybindLib-1.0.5",
+        "DarkSpider-TextUpgradesUIScale-1.0.0",
+        "YMC_MHZ-MoreHead-1.4.4",
+        "nickklmao-REPOConfig-1.2.3",
+        "Maygik-MoreHeadUtilities-1.0.9",
+        "loaforc-loaforcsSoundAPI-2.0.8",
+        "ZeroTails-Portal_Gun-1.0.2",
+        "DirtyGames-REPOGambling-1.6.0",
+        "headclef-Agility-1.0.0",
+        "Nanalands-StupidHead-1.5.0",
+        "RESET-MoreHeadPlus-1.9.6",
+        "Cuajitox-SharedHealthPacks-1.0.1",
+        "HeroHanex-NoItemSpawnLimit-1.0.6",
+        "linkoid-RoboUnion-0.5.0",
+        "MrBytesized-BetterTeamUpgrades-2.2.0",
+        "AriIcedT-ArisJunkDrawer-1.0.2",
+        "Sangrento-SillyValuables-7.0.5",
+        "Einhornyordle-Repo_Leveling-0.2.0",
+        "BULLETBOT-MoreUpgrades-1.6.6",
+        "itsUndefined-Shop_Items_Spawn_in_Level-1.7.20"
+    ]
+}
